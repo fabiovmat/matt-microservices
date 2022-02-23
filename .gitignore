@@ -22,3 +22,4 @@ blog/bin
 #Intellij files
 **/*.iml
 **/.idea
+/.metadata/
